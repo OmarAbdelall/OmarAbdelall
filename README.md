@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
-- 📫 How to reach me **omarnassermohamed28@gmail.com**
+- 📫 How to reach me **engr.omaar@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
